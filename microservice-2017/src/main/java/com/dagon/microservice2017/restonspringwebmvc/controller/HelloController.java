@@ -1,7 +1,6 @@
 package com.dagon.microservice2017.restonspringwebmvc.controller;
 
 import com.dagon.microservice2017.restonspringwebmvc.pojo.Person;
-import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 
 /**
